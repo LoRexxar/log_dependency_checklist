@@ -18,7 +18,7 @@ If you have any questions, please PR.
 
 ps:
 
-[Directly introduce the Dependencies list of log4j-core(直接引用log4j-core的组件列表)](list.md)
+[Directly introduce the Dependencies list of log4j-core(直接引用log4j-core的组件列表)](list2.md)
 
 
 # Vulnerable dependency
