@@ -12,12 +12,18 @@ If you have any questions, please PR.
 
 
 
+**Newest log4j-core version**: the log4j-core version referenced in the latest version. Components lower than 2.15 need to manually update the log4j-core version, and the other can be directly upgraded and repaired.
+
+指最新版本中引用的log4j-core版本，低于2.15的组件需要手动更新log4j-core版本，其余可直接升级修复。
+
+
+
 
 # Vulnerable dependency
 
 
 
-| dependency name                                        | log4j-core version | usages | Vulnerable |
+| dependency name                                        | Newest log4j-core version | usages | Vulnerable |
 | ------------------------------------------------------------ | ------------------ | ------ | ---------- |
 | org.apache.logging.log4j.log4j-slf4j-impl                    | 2.16.0             | 4829   | √         |
 | org.apache.logging.log4j.log4j-jcl                           | 2.16.0             | 940    | √         |
