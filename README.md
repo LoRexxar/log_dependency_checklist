@@ -245,8 +245,7 @@ If you have any questions, please PR.
 | dependency Name                                              | usages | vulnerable |
 | ------------------------------------------------------------ | ------ | ---------- |
 | log4j.log4j                                                  | 16606  | ×         |
-| org.slf4j.slf4j-log4j12                                      | 15058  | ×         |
-| org.apache.logging.log4j.log4j-core                          | 6928   | ×         |
+| org.slf4j.slf4j-log4j12                                      | 15058  |          |
 | org.apache.logging.log4j.log4j-api                           | 5479   | ×         |
 | org.slf4j.log4j-over-slf4j                                   | 2877   | ×         |
 | org.ops4j.pax.logging.pax-logging-api                        | 853    | ×         |
