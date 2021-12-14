@@ -1,4 +1,4 @@
-# Log Dependencies with Log4j2 Checklist
+# Dependencies with Log4j2 Checklist
 
 All content of this project comes from https://maven.apache.org/ and is not responsible for the validity of the data.
 The scan selected the first 400 components including log4j and log4j2 to obtain data.
@@ -16,7 +16,9 @@ If you have any questions, please PR.
 
 指最新版本中引用的log4j-core版本，低于2.15的组件需要手动更新log4j-core版本，其余可直接升级修复。
 
+ps:
 
+[Directly introduce the Dependencies list of log4j-core(直接引用log4j-core的组件列表)](list.md)
 
 
 # Vulnerable dependency
